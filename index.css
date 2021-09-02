@@ -1,0 +1,25 @@
+body{
+    background: #0a3256;
+}
+h1{
+    padding: 70px 0;
+    text-align: center;
+    color: cornsilk;
+}
+/* img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+} */
+button{
+    width: 14%;
+   
+    background: gold;
+    color: brown;
+    font-size: 40px;
+}
+.light-contanier{
+    text-align: center;
+    justify-content: space-around;
+}
